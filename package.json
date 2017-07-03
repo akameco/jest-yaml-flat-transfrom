@@ -1,0 +1,35 @@
+{
+  "name": "jest-yaml-flat-transfrom",
+  "version": "0.0.0",
+  "description": "transform yaml to flatten object",
+  "license": "MIT",
+  "repository": "akameco/jest-yaml-flat-transfrom",
+  "author": {
+    "name": "akameco",
+    "email": "akameco.t@gmail.com",
+    "url": "akameco.github.io"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "prettier": "prettier --write --single-quote --no-semi '**/*.js'",
+    "lint": "eslint ."
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "jest",
+    "transform"
+  ],
+  "dependencies": {
+    "flat": "^2.0.1",
+    "js-yaml": "^3.8.4"
+  },
+  "devDependencies": {
+    "eslint": "^4.0.0",
+    "eslint-config-precure": "^0.7.1",
+    "prettier": "^1.4.4"
+  }
+}
