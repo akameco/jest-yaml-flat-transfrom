@@ -1,5 +1,7 @@
 # jest-yaml-flat-transfrom [![Build Status](https://travis-ci.org/akameco/jest-yaml-flat-transfrom.svg?branch=master)](https://travis-ci.org/akameco/jest-yaml-flat-transfrom)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/akameco/jest-yaml-flat-transfrom.svg)](https://greenkeeper.io/)
+
 > transform yaml to flatten object
 
 
